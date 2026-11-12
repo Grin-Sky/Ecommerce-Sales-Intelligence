@@ -1,0 +1,29 @@
+# Local datasets and generated outputs
+/02_Data/Raw/
+/02_Data/Processed/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+
+# Local editor settings
+.vscode/
+
+# Local environment configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
